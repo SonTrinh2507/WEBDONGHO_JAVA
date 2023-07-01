@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="btn__xoa"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="btn__xoa"/>
+			<item value="lni lni-circle-plus"/>
+			<item value="totalBillElement"/>
+			<item value="billTotal"/>
+			<item value="totalBill price_format"/>
+			<item value="totalBill"/>
+			<item value="input__rePass"/>
+			<item value="WATCHSHOP"/>
+			<item value="checkout"/>
+			<item value="forgetpass"/>
+			<item value="signup/submit"/>
+			<item value="signup/login"/>
+			<item value="login/submit"/>
+			<item value="input__brandID"/>
+			<item value="updatestaff"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="779"/>
+		<item key="DIALOG_Y_ORIGIN" value="338"/>
+		<item key="DIALOG_WIDTH" value="322"/>
+		<item key="DIALOG_HEIGHT" value="396"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
